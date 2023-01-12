@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.create-projek {
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.create-projek label {
+    text-align: left;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.create-projek h2 {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.create-projek input,
+.create-projek textarea,
+.create-projek select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 12px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+    height: 45px;
+}
+
+.create-projek .item {
+    margin-bottom: 25px;
+}
+
+.create-projek button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 12px;
+}

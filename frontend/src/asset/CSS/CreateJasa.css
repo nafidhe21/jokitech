@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.create-jasa {
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.create-jasa h2 {
+    margin-bottom: 30px;
+}
+
+.create-jasa .container-cropper .close {
+    position: absolute;
+    top: -15px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.create-jasa .item {
+    margin-bottom: 20px;
+}
+
+.create-jasa .item .choose {
+    border: black dotted 1px;
+    padding: 20px 0px;
+    cursor: pointer;
+    position: relative;
+}
+
+.create-jasa input[type="file"] {
+    display: none;
+}
+
+.create-jasa .container {
+    height: 80vh;
+    width: 85vw;
+    position: fixed;
+    right: 80px;
+    top: 110px;
+}
+
+.create-jasa .container-cropper {
+    height: 90%;
+    padding: 10px;
+}
+
+.create-jasa .cropper {
+    height: 90%;
+    position: relative;
+}
+
+.create-jasa .slider {
+    height: 10%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 60%;
+}
+
+.create-jasa .container-buttons {
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.create-jasa .item h3 {
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.create-jasa img{
+    width: 400px;
+}
+
+.create-jasa canvas{
+    width: 400px;
+    display: none;
+}
+
+.create-jasa .form button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 24px;
+    position: relative;
+}

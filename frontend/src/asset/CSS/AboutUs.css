@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.about-us {
+    background-image: url("https://res.cloudinary.com/jokitech/image/upload/v1637667642/test/Untitled_design_ro2afd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    display: flex;
+    padding: 0px 150px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.about-us .bagian-kiri {
+    flex: 2;
+}
+
+.about-us .bagian-kanan {
+    flex: 1.8;
+}
+
+.about-us .bagian-kanan h1 {
+    margin-bottom: 20px;
+}
+
+.about-us .bagian-kiri img{
+    width: 350px;
+}

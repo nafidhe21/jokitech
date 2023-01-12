@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.detail-penjasa {
+    padding: 15px 50px;
+    display: flex;
+    height: 95vh;
+}
+
+.detail-penjasa .bagian-kiri {
+    flex: 1;
+    padding: 10px;
+}
+
+.detail-penjasa .bagian-kiri .profile {
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.detail-penjasa .bagian-kiri .profile img {
+    width: 265px;
+    border-radius: 132.5px;
+}
+
+.detail-penjasa .bagian-kiri .image {
+    display: flex;
+    justify-content: center;
+}
+
+.detail-penjasa .bagian-kiri .nama {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+.detail-penjasa .bagian-kiri .about-me {
+    margin-bottom: 16px;
+}
+
+.detail-penjasa .bagian-kiri .about-me h3 {
+    margin-bottom: 8px;
+}
+
+.detail-penjasa .bagian-kiri .about-me p {
+    font-size: 14px;
+}
+
+.detail-penjasa .bagian-kiri .contact-person h3 {
+    margin-bottom: 8px;
+}
+
+.detail-penjasa .bagian-kiri .contact-person p {
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+.detail-penjasa .bagian-kanan {
+    flex: 3;
+    padding: 30px;
+    overflow: auto;
+    border-radius: 12px;
+}
+
+.detail-penjasa .bagian-kanan h2 {
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+
+.detail-penjasa .search {
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    margin: 0px auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.detail-penjasa .search input {
+    font-size: 16px;
+    border-width: 0px;
+    margin-left: 5px;
+}
+
+.detail-penjasa .search input:focus {
+    outline: none;
+}

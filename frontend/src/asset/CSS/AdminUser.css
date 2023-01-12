@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.admin-user {
+    padding: 0px 150px;
+}
+
+.admin-user .search {
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    margin: 40px auto;
+}
+
+.admin-user .search input {
+    font-size: 16px;
+    border-width: 0px;
+    margin-left: 5px;
+}
+
+.admin-user .search input:focus {
+    outline: none;
+}

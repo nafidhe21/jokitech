@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.JasaPenjasa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.JasaPenjasa .preview {
+    width: 350px;
+}
+
+.JasaPenjasa a {
+    color: black;
+    text-decoration: none;
+}
+
+.JasaPenjasa .kotak {
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px 1px 0px 1px;
+    padding: 20px;
+    height: 450px;
+}
+
+.JasaPenjasa .image img{
+    width: 310px;
+}
+
+.JasaPenjasa .deskripsi {
+    margin-top: 20px;
+}
+
+.JasaPenjasa .startingPrice {
+    margin-top: 25px;
+}
+
+.JasaPenjasa .kotakBawah {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+    padding: 8px 20px;
+    background-color: #335C67;
+}
+
+.JasaPenjasa button {
+    background-color: #335C67;
+    box-shadow: none;
+    border: none;
+}
+
+.JasaPenjasa button:hover{
+    cursor: pointer;
+}
+
+.JasaPenjasa p {
+    font-size: 12px;
+}

@@ -1,0 +1,88 @@
+{
+  "jasa": [
+    {
+      "judul": "Design Logo",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse odio diam, venenatis a quam in, fringilla gravida mauris. Donec eros nisi, pulvinar quis elementum quis, aliquam nec nunc. Quisque vel scelerisque lacus. Integer eu orci diam. Curabitur suscipit, dolor nec maximus imperdiet, nibh leo pellentesque libero, ut scelerisque erat mi at mauris. Suspendisse vel euismod sem. Aenean vitae ex at ipsum aliquam placerat eget in justo. Vestibulum vel ornare arcu. Etiam sit amet venenatis sapien, at mattis nunc. Curabitur ac nibh ornare, ultricies neque eu, fermentum neque. Nullam vehicula, mauris accumsan mollis rutrum, eros dui suscipit ligula, sed ultrices dolor lorem at tortor. Ut pellentesque blandit hendrerit. Integer feugiat, turpis sed cursus aliquet, sapien nunc sodales eros, sed ultrices eros magna pharetra lectus. Aliquam ullamcorper augue non tellus porta elementum. Duis at feugiat mi, eleifend condimentum sem. Phasellus eget pulvinar velit. Vestibulum eu rhoncus eros, eget euismod orci. Cras a vestibulum nisl, id ullamcorper velit. Ut vehicula ante sed sapien ullamcorper, sed mollis diam mattis. Proin ac orci nisl. Fusce porttitor et nunc eu tincidunt. Vestibulum eget ipsum sapien. Ut aliquam condimentum justo vitae elementum. Phasellus quam nunc, vulputate ac elit sed, tristique ornare arcu. Quisque sagittis urna quis est laoreet aliquet. Curabitur non magna tellus. Quisque vulputate ipsum sed lacus molestie, sed ullamcorper tellus tempus. Donec eu enim erat. Donec aliquam feugiat nisi ut rutrum. Ut nisl enim, finibus sed lectus eget, interdum luctus ante. Nam bibendum magna sed auctor blandit. Duis ac enim eget ipsum tincidunt pulvinar eget vel urna. Sed ante leo, maximus sed finibus id, viverra vel purus. Suspendisse vel vehicula dolor.",
+      "penjasa": "John",
+      "kategori": "Graphic and Design",
+      "startingPrice": 150000,
+      "id": 1
+    },
+    {
+      "judul": "Pembuatan Web",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse odio diam, venenatis a quam in, fringilla gravida mauris. Donec eros nisi, pulvinar quis elementum quis, aliquam nec nunc. Quisque vel scelerisque lacus. Integer eu orci diam. Curabitur suscipit, dolor nec maximus imperdiet, nibh leo pellentesque libero, ut scelerisque erat mi at mauris. Suspendisse vel euismod sem. Aenean vitae ex at ipsum aliquam placerat eget in justo. Vestibulum vel ornare arcu. Etiam sit amet venenatis sapien, at mattis nunc. Curabitur ac nibh ornare, ultricies neque eu, fermentum neque. Nullam vehicula, mauris accumsan mollis rutrum, eros dui suscipit ligula, sed ultrices dolor lorem at tortor. Ut pellentesque blandit hendrerit. Integer feugiat, turpis sed cursus aliquet, sapien nunc sodales eros, sed ultrices eros magna pharetra lectus. Aliquam ullamcorper augue non tellus porta elementum. Duis at feugiat mi, eleifend condimentum sem. Phasellus eget pulvinar velit. Vestibulum eu rhoncus eros, eget euismod orci. Cras a vestibulum nisl, id ullamcorper velit.",
+      "penjasa": "Tatang",
+      "kategori": "Programming and Tech",
+      "startingPrice": 400000,
+      "id": 2
+    },
+    {
+      "judul": "Pembuatan Game FPS",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse odio diam, venenatis a quam in, fringilla gravida mauris. Donec eros nisi, pulvinar quis elementum quis, aliquam nec nunc. Quisque vel scelerisque lacus. Integer eu orci diam. Curabitur suscipit, dolor nec maximus imperdiet, nibh leo pellentesque libero, ut scelerisque erat mi at mauris. Suspendisse vel euismod sem. Aenean vitae ex at ipsum aliquam placerat eget in justo. Vestibulum vel ornare arcu. Etiam sit amet venenatis sapien, at mattis nunc. Curabitur ac nibh ornare, ultricies neque eu, fermentum neque. Nullam vehicula, mauris accumsan mollis rutrum, eros dui suscipit ligula, sed ultrices dolor lorem at tortor. Ut pellentesque blandit hendrerit. Integer feugiat, turpis sed cursus aliquet, sapien nunc sodales eros, sed ultrices eros magna pharetra lectus. Aliquam ullamcorper augue non tellus porta elementum. Duis at feugiat mi, eleifend condimentum sem. Phasellus eget pulvinar velit. Vestibulum eu rhoncus eros, eget euismod orci. Cras a vestibulum nisl, id ullamcorper velit. Ut vehicula ante sed sapien ullamcorper, sed mollis diam mattis. Proin ac orci nisl. Fusce porttitor et nunc eu tincidunt. Vestibulum eget ipsum sapien. Ut aliquam condimentum justo vitae elementum. Phasellus quam nunc, vulputate ac elit sed, tristique ornare arcu. Quisque sagittis urna quis est laoreet aliquet. Curabitur non magna tellus. Quisque vulputate ipsum sed lacus molestie, sed ullamcorper tellus tempus. Donec eu enim erat. Donec aliquam feugiat nisi ut rutrum. Ut nisl enim, finibus sed lectus eget, interdum luctus ante. Nam bibendum magna sed auctor blandit. Duis ac enim eget ipsum tincidunt pulvinar eget vel urna. Sed ante leo, maximus sed finibus id, viverra vel purus. Suspendisse vel vehicula dolor.",
+      "penjasa": "Asep",
+      "kategori": "Programming and Tech",
+      "startingPrice": 1000000,
+      "id": 3
+    },
+    {
+      "judul": "Pembuatan Video Intro",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse odio diam, venenatis a quam in, fringilla gravida mauris. Donec eros nisi, pulvinar quis elementum quis, aliquam nec nunc. Quisque vel scelerisque lacus. Integer eu orci diam. Curabitur suscipit, dolor nec maximus imperdiet, nibh leo pellentesque libero, ut scelerisque erat mi at mauris. Suspendisse vel euismod sem. Aenean vitae ex at ipsum aliquam placerat eget in justo. Vestibulum vel ornare arcu. Etiam sit amet venenatis sapien, at mattis nunc. Curabitur ac nibh ornare, ultricies neque eu, fermentum neque. Nullam vehicula, mauris accumsan mollis rutrum, eros dui suscipit ligula, sed ultrices dolor lorem at tortor. Ut pellentesque blandit hendrerit. Integer feugiat, turpis sed cursus aliquet, sapien nunc sodales eros, sed ultrices eros magna pharetra lectus. Aliquam ullamcorper augue non tellus porta elementum. Duis at feugiat mi, eleifend condimentum sem. Phasellus eget pulvinar velit. Vestibulum eu rhoncus eros, eget euismod orci. Cras a vestibulum nisl, id ullamcorper velit.",
+      "penjasa": "Karen",
+      "kategori": "Video and Animation",
+      "startingPrice": 300000,
+      "id": 4
+    },
+    {
+      "judul": "Pembuatan Web Profile",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non risus ac lacus condimentum pretium. Sed aliquam nunc tellus, sit amet sagittis tortor consequat a. Morbi blandit viverra erat at dignissim. Nulla placerat, elit sed pharetra fermentum, nisi felis feugiat velit, ut mollis erat purus sit amet ante. Proin vitae lorem nec tellus congue eleifend sed in justo. In in velit molestie, interdum magna a, bibendum diam. Proin tincidunt posuere lorem id tincidunt. Phasellus odio sapien, egestas in congue eu, pellentesque et massa. Morbi id massa ac ex suscipit porttitor quis et nulla. Cras neque elit, viverra non nulla ut, malesuada pharetra nisi. Nullam at dolor eget mi rhoncus malesuada vel quis risus.",
+      "penjasa": "Nana",
+      "kategori": "Programming and Tech",
+      "startingPrice": "500000",
+      "id": 5
+    },
+    {
+      "judul": "Pembuatan Mobile Apps",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non risus ac lacus condimentum pretium. Sed aliquam nunc tellus, sit amet sagittis tortor consequat a. Morbi blandit viverra erat at dignissim. Nulla placerat, elit sed pharetra fermentum, nisi felis feugiat velit, ut mollis erat purus sit amet ante. Proin vitae lorem nec tellus congue eleifend sed in justo. In in velit molestie, interdum magna a, bibendum diam. Proin tincidunt posuere lorem id tincidunt. Phasellus odio sapien, egestas in congue eu, pellentesque et massa. Morbi id massa ac ex suscipit porttitor quis et nulla. Cras neque elit, viverra non nulla ut, malesuada pharetra nisi. Nullam at dolor eget mi rhoncus malesuada vel quis risus.",
+      "penjasa": "Lontong",
+      "kategori": "Programming and Tech",
+      "startingPrice": "800000",
+      "id": 6
+    },
+    {
+      "judul": "Design Logo",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor eros et lectus rhoncus condimentum. Nunc lobortis mi a enim aliquet, vel consequat quam gravida. Maecenas suscipit maximus condimentum. Nullam vehicula vulputate purus nec gravida. Donec pulvinar urna sit amet ullamcorper vestibulum. Phasellus sed ipsum lorem. Nam eget mi id dui pulvinar hendrerit.",
+      "penjasa": "Kancil",
+      "kategori": "Graphic and Design",
+      "startingPrice": "500000",
+      "id": 7
+    }
+  ],
+  "project": [
+    {
+      "noPesanan": "1",
+      "kategori": "Graphic and Design",
+      "pemesanan": "Design Logo",
+      "biaya": "1000000",
+      "status": "0",
+      "id": 1
+    },
+    {
+      "noPesanan": "2",
+      "kategori": "Programming and Tech",
+      "pemesanan": "Pembuatan Web",
+      "biaya": "5000000",
+      "status": "0",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Daffa",
+      "username": "daffarasyid",
+      "phoneNumber": "081290647459",
+      "password": "tes1234",
+      "token": "easdsco0sawweensa",
+      "id": 1
+    }
+  ]
+}

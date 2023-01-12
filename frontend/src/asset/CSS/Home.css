@@ -1,0 +1,76 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.home .cover {
+    padding: 2px 150px;
+    background-color: #F5EFEF;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.home .cover img {
+    width: 380px;
+}
+
+.home .cover .bagian-kanan {
+    flex: 1;
+}
+
+.home .cover .bagian-kiri {
+    flex: 1.4;
+}
+
+.home .cover h1 {
+    margin-bottom: 12px;
+}
+
+.home .konten {
+    padding: 2px 150px;
+}
+
+.home .konten hr {
+    margin: 15px 0px;
+}
+
+.home .konten .kategori {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.home .konten .kategori a {
+    text-decoration: none;
+    color: black;
+}
+
+.home .konten .kategori img {
+    width: 250px;
+}
+
+.home .konten .kategori h3 {
+    margin-bottom: 20px;
+}
+
+.home .konten .kategori .jasa {
+    text-align: center;
+    height: 450px;
+    margin: 0px 20px;
+    padding: 0px 25px;
+    border-radius: 20px;
+    background-color: #F5EFEF;
+}
+
+.home .konten .kategori .jasa:hover {
+    box-shadow: 12px 12px 4px #B5B3B3;
+}
+
+.home .jasa p {
+    font-size: 10px;
+}

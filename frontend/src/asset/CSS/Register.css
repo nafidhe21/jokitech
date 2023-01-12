@@ -1,0 +1,105 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.register {
+    background-color: #F5EFEF;
+    display: flex;
+    padding: 0px 150px;
+}
+
+.register .bagianKiri {
+    width: 100%;
+    flex: 1.2;
+}
+
+.register a {
+    color: white;
+    text-decoration: none;
+}
+
+.register .bagianKiri img {
+    width: 550px;
+    position: absolute;
+    left: 180px;
+    top: 250px
+}
+
+.register .bagianKanan {
+    width: 100%;
+    flex: 1;
+}
+
+.register .bagianKanan .form {
+    margin: 40px 12px;
+    height: 760px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 60px 45px;
+    background-color: #5E6472;
+    color: white;
+}
+
+.register .form .atas {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 65px;
+}
+
+.register .form .atas .highlight {
+    border-bottom: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 8px;
+}
+
+.register .form .atas .highlight2:hover {
+    cursor: pointer;
+    border-bottom: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 8px;
+}
+
+.register .form .input {
+    display: flex;
+    flex-direction: column;
+}
+.register .input input {
+    margin-top: 25px;
+    padding: 20px 0px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 14px;
+    border: none;
+}
+.register button {
+    background-color: #007BFF;
+    box-shadow: none;
+    border: none;
+}
+
+.register .bagianKanan .wrong {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.register .bagianKanan .button {
+    background-color: #007BFF;
+    text-align: center;
+    width: 35%;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.register .bagianKanan .button:hover {
+    cursor: pointer;
+}

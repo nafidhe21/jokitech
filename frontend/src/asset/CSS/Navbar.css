@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    background-color: #772525;
+    padding: 15px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-left: 45px;
+    color: white;
+}
+
+.navbar h6 {
+    font-weight: normal;
+}
+
+.navbar img {
+    width: 85px;
+}
+
+.navbar .kiri {
+    text-align: center;
+}
+
+.navbar .bagian-kiri {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .bagian-kanan {
+    background-color: #540B0E;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+
+.navbar .bagian-kanan a {
+    margin-left: 0px;
+}
+
+.foto-bagian-kanan img {
+    width: 46px;
+    border-radius: 23px;
+    margin-left: 12px;
+}
+
+.navbar .hambMenu {
+    position: absolute;
+    padding: 0px 15px 15px 15px;
+    top: 85px;
+    right: 130px;
+    background-color: rgba(0, 0, 0, 0.7);
+    transition-duration: 20ms;
+    border-radius: 12px;
+}
+
+.navbar .hambMenu .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.navbar .hambMenu p {
+    color: white;
+    font-size: 18px;
+    margin-left: 8px;
+}
+
+.navbar .arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+
+    border-bottom: 10px solid rgba(0, 0, 0, 0.7);
+}
+
+.navbar .segitiga {
+    position: relative;
+    top: -10px;
+    left: 85px;
+}
+
+.navbar .foto-bagian-kanan .bio {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .foto-bagian-kanan {
+    cursor: pointer;
+}

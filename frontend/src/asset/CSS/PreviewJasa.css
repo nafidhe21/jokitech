@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.preview-jasa {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.preview-jasa a {
+    text-decoration: none;
+    color: black;
+}
+
+.preview-jasa .preview {
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.preview-jasa .preview .image {
+    display: flex;
+    justify-content: center;
+}
+
+.preview-jasa .preview img {
+    width: 260px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.preview-jasa .preview:hover {
+    box-shadow: 12px 12px 4px #B5B3B3;
+}
+
+.preview-jasa .judul {
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.preview-jasa .deskripsi {
+    font-size: 13px;
+    margin-bottom: 40px;
+}
+
+.preview-jasa .startingPrice {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.preview-jasa .penjasa {
+    font-size: 12px;
+}

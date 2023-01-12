@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-dash-admin {
+    background-color: #772525;
+    padding: 15px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar-dash-admin a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-dash-admin .kiri img {
+    width: 85px;
+}
+
+.navbar-dash-admin .kiri h6 {
+    text-align: center;
+    font-weight: normal;
+}
+
+.navbar-dash-admin .bagianTengah {
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-dash-admin .bagianTengah a {
+    text-align: center;
+    padding: 10px 20px;
+    
+}
+
+.navbar-dash-admin .bagianKanan {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-dash-admin .bagianKanan img {
+    width: 50px;
+    border-radius: 25px;
+    margin-left: 15px;
+}
+
+.navbar-dash-admin .hambMenu {
+    position: absolute;
+    padding: 0px 15px 15px 15px;
+    top: 85px;
+    right: 130px;
+    background-color: rgba(0, 0, 0, 0.7);
+    transition-duration: 20ms;
+    border-radius: 12px;
+}
+
+.navbar-dash-admin .hambMenu .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.navbar-dash-admin .hambMenu p {
+    color: white;
+    font-size: 18px;
+    margin-left: 8px;
+}
+
+.navbar-dash-admin .arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+
+    border-bottom: 10px solid rgba(0, 0, 0, 0.7);
+}
+
+.navbar-dash-admin .segitiga {
+    position: relative;
+    top: -10px;
+    left: 50px;
+}

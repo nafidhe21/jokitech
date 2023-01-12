@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.posting {
+    padding: 0px 150px;
+}
+
+.posting .search {
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    width: 350px;
+    margin: 40px auto;
+}
+
+.posting .search input {
+    font-size: 16px;
+    border-width: 0px;
+    margin-left: 5px;
+}
+
+.posting .search input:focus {
+    outline: none;
+}
+
+.posting .tambah {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 15px;
+    background-color: #335C67;
+    width: 175px;
+    border-radius: 20px;
+    margin-bottom: 35px;
+}
+
+.posting a {
+    text-decoration: none;
+}
+
+.posting .tambah p {
+    font-size: 18px;
+    margin-left: 10px;
+}

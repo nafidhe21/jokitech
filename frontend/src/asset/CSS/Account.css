@@ -1,0 +1,112 @@
+.account {
+    display: flex;
+    margin-top: 45px;
+    padding: 2px 150px;
+}
+
+.account .bagianKiri {
+    flex: 1;
+}
+
+.account .bagianKanan {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.account .bagianKiri .gambar img{
+    width: 270px;
+    border-radius: 140px;
+}
+
+.account .item {
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+.account .item h3{
+    font-weight: normal;
+    margin-bottom: 12px;
+}
+
+.account .item input{
+    height: 20px;
+    font-size: 14px;
+}
+
+.account .item textarea {
+    width: 50%;
+    height: 100px;
+    font-size: 14px;
+}
+
+.account .icon-edit {
+    position: absolute;
+    left: 380px;
+    cursor: pointer;
+}
+
+.account input[type="file"] {
+    display: none;
+}
+
+.account .item button {
+    cursor: pointer;
+}
+
+.account .container {
+    height: 80vh;
+    width: 90vw;
+    position: absolute;
+    right: 90px;
+    top: 120px;
+}
+
+.account .container-cropper {
+    height: 90%;
+    padding: 10px;
+}
+
+.account .container-cropper .close {
+    position: absolute;
+    top: -15px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.account .container-cropper canvas {
+    display: none;
+}
+
+.account .cropper {
+    height: 90%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.account .slider {
+    height: 10%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 60%;
+}
+
+.account .button {
+    border: 1px solid #f5f5f5;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.account .item button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 24px;
+}
